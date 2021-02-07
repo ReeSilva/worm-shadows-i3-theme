@@ -1,0 +1,11 @@
+[kubernetes]
+disabled = false
+
+[terraform]
+show_version = true
+disabled = false
+
+[custom.fishcognito]
+command = """ printf ' \\xF0\\x9F\\x91\\xBB' """
+when = """ test "$fishcognito_active" = "true" """
+format = ""
