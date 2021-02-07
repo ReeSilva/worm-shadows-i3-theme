@@ -10,6 +10,7 @@ This repository contains the dotfiles for the i3 Theme `Worm Shadows`, created b
 - [starship](https://starship.rs)
 - [fish shell](https://fishshell.com/)
 - [rofi](https://github.com/davatorium/rofi)
+- [oh my fish](https://github.com/oh-my-fish/oh-my-fish)
 
 ## Installation
 All you have to do is to put all these files and folders in the dir: `$HOME/.config`
